@@ -1,2 +1,2 @@
 Anthony Owusu-Ansah
-Anthony Owusu-Ansah
+CS2400, Online
