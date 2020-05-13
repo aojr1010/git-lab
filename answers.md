@@ -75,5 +75,9 @@ Answer 8: commit 957856ea7ec7ecee86cbfc6d04b9da08b2fbca4a (HEAD -> master)
 Author: Anthony Owusu-Ansah <ao264517@ohio.edu>
 Date:   Wed May 13 12:50:17 2020 -0400
 
+Answer 9: On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
 
 
