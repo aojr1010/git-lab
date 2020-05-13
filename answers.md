@@ -81,3 +81,15 @@ Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 
 
+Answer 10: No
+
+Answer 11: error: failed to push some refs to 'https://github.com/aojr1010/git-lab.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: Yes
+
+
+
